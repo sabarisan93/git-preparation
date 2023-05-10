@@ -1,2 +1,3 @@
- this is a github and git learning session
+ this is a github and git learning session.
+ this is a helpful for developers
  
